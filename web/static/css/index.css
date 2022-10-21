@@ -496,8 +496,10 @@
   top: 0px;
   left: 233px;
   z-index: 999;
-  background: #f0f0f0;
+  background: #39987c;
   padding: 20px;
+  /* color: wheat; */
+  border-radius: 0px 10px 10px 10px;
 }
 .lateral_dl{
   padding: 10px 10px 10px 10px;
@@ -513,5 +515,5 @@
   float: left;
   display: block;
   margin: 10px 10px 10px 0px;
-  color: #39987c;
+  color: #ffffff;
 }
